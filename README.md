@@ -3,7 +3,7 @@
 
 <p>
   ➕ DAY 1 (1 March 2024) : Javascript Slider have five items. ✅ <br>
-  Live: https://www.burakbayram.me/projects/day-one-sliderwithfiveitems/index.html <br> 
+  🔗 Live: https://www.burakbayram.me/projects/day-one-sliderwithfiveitems/index.html <br> 
   <br>
   I watched this tutorial for this slider: <br>
   https://www.youtube.com/watch?v=32sSSksKbCE But everthing is not same.<br>
