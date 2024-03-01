@@ -4,7 +4,7 @@
 <p>
   ➕ DAY 1 (1 March 2024) : Javascript Slider have five items. ✅ <br>
   <br> 
-  I watched this video for this slider: <br>
+  I watched this tutorial for this slider: <br>
   https://www.youtube.com/watch?v=32sSSksKbCE But everthing is not same.<br>
   I add some diffirent code snippets. <br><br>
 -------------------------------------------------------------------<br>
