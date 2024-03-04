@@ -13,7 +13,7 @@
  ➕ DAY 2 (1 March 2024 - 4 March 2024) : Page stepper. ✅ <br>
   🔗 Live: https://www.burakbayram.me/projects/day-two-steps/index.html <br> 
   <br>
-  I watched this tutorial for this slider: <br>
+  I watched this tutorial for this stepper: <br>
   https://www.youtube.com/watch?v=YhbVCjdjOO0<br><br>
 -------------------------------------------------------------------<br>
 ➕ DAY 3 () :<br>
