@@ -38,7 +38,6 @@
   I watched this tutorial for this search bar animation. Also added box radius and placeholder text color: <br>
   https://www.youtube.com/watch?v=Sn7F42jnCzU<br><br>
 -------------------------------------------------------------------<br>
-
   <br>
  ➕ DAY 5 (7 March 2024) : Loading page animation ✅ <br>
   🔗 Live: https://www.burakbayram.me/projects/day-five-loading-screen/index.html <br> 
@@ -47,4 +46,13 @@
   <br>
   I watched this tutorial for this loading page animation. <br>
   https://www.youtube.com/watch?v=r5twXB71bDg<br><br>
+-------------------------------------------------------------------<br>
+  <br>
+ ➕ DAY 6 (7 March 2024) : Scroll page post animation ✅ <br>
+  🔗 Live: https://www.burakbayram.me/projects/day-six-scroll-animation/index.html <br> 
+   <br>
+  <img src="https://www.burakbayram.me/projects/images/img6.png"></img>
+  <br>
+  I watched this tutorial for this scroll page animation. <br>
+  https://www.youtube.com/watch?v=vOacI-cTnHc<br><br>
 -------------------------------------------------------------------<br>
