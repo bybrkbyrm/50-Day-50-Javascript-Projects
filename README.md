@@ -26,11 +26,17 @@
    <br>
   <img src="https://www.burakbayram.me/projects/images/img3.png"></img>
   <br>
-  I watched this tutorial for this stepper: <br>
+  I watched this tutorial for this menu animation: <br>
   https://www.youtube.com/watch?v=T3Gc3exJNBQ<br><br>
 -------------------------------------------------------------------<br>
-➕ DAY 4 () :<br>
-  ℹ️<br>
+  <br>
+ ➕ DAY 4 (6 March 2024) : Search bar animation ✅ <br>
+  🔗 Live: https://www.burakbayram.me/projects/day-four-search-bar-animation/index.html <br> 
+   <br>
+  <img src="https://www.burakbayram.me/projects/images/img4.png"></img>
+  <br>
+  I watched this tutorial for this search bar animation. Also added box radius and placeholder text color: <br>
+  https://www.youtube.com/watch?v=Sn7F42jnCzU<br><br>
 -------------------------------------------------------------------<br>
 
 </p>
