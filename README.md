@@ -39,4 +39,12 @@
   https://www.youtube.com/watch?v=Sn7F42jnCzU<br><br>
 -------------------------------------------------------------------<br>
 
-</p>
+  <br>
+ ➕ DAY 5 (7 March 2024) : Loading page animation ✅ <br>
+  🔗 Live: https://www.burakbayram.me/projects/day-five-loading-screen/index.html <br> 
+   <br>
+  <img src=""></img>
+  <br>
+  I watched this tutorial for this loading page animation. <br>
+  https://www.youtube.com/watch?v=r5twXB71bDg<br><br>
+-------------------------------------------------------------------<br>
