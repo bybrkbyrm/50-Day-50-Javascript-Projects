@@ -56,3 +56,11 @@
   I watched this tutorial for this scroll page animation. <br>
   https://www.youtube.com/watch?v=vOacI-cTnHc<br><br>
 -------------------------------------------------------------------<br>
+  <br>
+ ➕ DAY 7 (15 April 2024) : Opening Page but slide version ✅ <br>
+  🔗 Live: https://burakbayram.me/projects/day-seven-double-opening-page/index.html <br> 
+   <br>
+  <img src="https://www.burakbayram.me/projects/images/img7.png"></img>
+  <br>
+  I watched this tutorial for this opening page but slide version. <br>
+  https://www.youtube.com/watch?v=RQSArpgUPaw<br><br>
