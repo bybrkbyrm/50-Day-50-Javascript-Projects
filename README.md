@@ -2,7 +2,7 @@
 <p>Welcome my 50 days and 50 projects journey.</p>
 
 <p>
-  ➕ DAY 1 (1 March 2024) : Javascript Slider have five items. ✅ <br>
+  ➕ <h1>DAY 1</h1> (1 March 2024) : Javascript Slider have five items. ✅ <br>
   🔗 Live: https://www.burakbayram.me/projects/day-one-sliderwithfiveitems/index.html <br> 
   <br>
   <img src="https://www.burakbayram.me/projects/images/img1.png"></img>
@@ -12,7 +12,7 @@
   I add some diffirent code snippets. <br><br>
 -------------------------------------------------------------------<br>
   <br>
- ➕ DAY 2 (1 March 2024 - 4 March 2024) : Page stepper. ✅ <br>
+ ➕ <h1>DAY 2</h1> (1 March 2024 - 4 March 2024) : Page stepper. ✅ <br>
   🔗 Live: https://www.burakbayram.me/projects/day-two-steps/index.html <br> 
    <br>
   <img src="https://www.burakbayram.me/projects/images/img2.png"></img>
@@ -21,7 +21,7 @@
   https://www.youtube.com/watch?v=YhbVCjdjOO0<br><br>
 -------------------------------------------------------------------<br>
   <br>
- ➕ DAY 3 (6 March 2024) : Menu animation ✅ <br>
+ ➕ <h1>DAY 3</h1> (6 March 2024) : Menu animation ✅ <br>
   🔗 Live: https://www.burakbayram.me/projects/day-three-animation-menu/index.html <br> 
    <br>
   <img src="https://www.burakbayram.me/projects/images/img3.png"></img>
@@ -30,7 +30,7 @@
   https://www.youtube.com/watch?v=T3Gc3exJNBQ<br><br>
 -------------------------------------------------------------------<br>
   <br>
- ➕ DAY 4 (6 March 2024) : Search bar animation ✅ <br>
+ ➕ <h1>DAY 4</h1> (6 March 2024) : Search bar animation ✅ <br>
   🔗 Live: https://www.burakbayram.me/projects/day-four-search-bar-animation/index.html <br> 
    <br>
   <img src="https://www.burakbayram.me/projects/images/img4.png"></img>
@@ -39,7 +39,7 @@
   https://www.youtube.com/watch?v=Sn7F42jnCzU<br><br>
 -------------------------------------------------------------------<br>
   <br>
- ➕ DAY 5 (7 March 2024) : Loading page animation ✅ <br>
+ ➕ <h1>DAY 5</h1> (7 March 2024) : Loading page animation ✅ <br>
   🔗 Live: https://www.burakbayram.me/projects/day-five-loading-screen/index.html <br> 
    <br>
   <img src="https://www.burakbayram.me/projects/images/img5.png"></img>
@@ -48,7 +48,7 @@
   https://www.youtube.com/watch?v=r5twXB71bDg<br><br>
 -------------------------------------------------------------------<br>
   <br>
- ➕ DAY 6 (7 March 2024) : Scroll page post animation ✅ <br>
+ ➕ <h1>DAY 6</h1> (7 March 2024) : Scroll page post animation ✅ <br>
   🔗 Live: https://www.burakbayram.me/projects/day-six-scroll-animation/index.html <br> 
    <br>
   <img src="https://www.burakbayram.me/projects/images/img6.png"></img>
@@ -57,7 +57,7 @@
   https://www.youtube.com/watch?v=vOacI-cTnHc<br><br>
 -------------------------------------------------------------------<br>
   <br>
- ➕ DAY 7 (15 April 2024) : Opening Page but slide version ✅ <br>
+ ➕<h1>DAY 7</h1> (15 April 2024) : Opening Page but slide version ✅ <br>
   🔗 Live: https://burakbayram.me/projects/day-seven-double-opening-page/index.html <br> 
    <br>
   <img src="https://www.burakbayram.me/projects/images/img7.png"></img>
