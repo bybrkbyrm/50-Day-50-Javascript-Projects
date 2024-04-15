@@ -73,3 +73,12 @@
   <br>
   I watched this tutorial for this text wave animation. <br>
   https://www.youtube.com/watch?v=QRiwYUQkNUQ<br><br>
+  -------------------------------------------------------------------<br>
+  <br>
+ ➕<h1>DAY 9</h1> (15 April 2024) : Sound Stream Deck ✅ <br>
+  🔗 Live: https://burakbayram.me/projects/day-nine-sound-stream-deck/index.htmlimg9<br> 
+   <br>
+  <img src="https://www.burakbayram.me/projects/images/img9.png"></img>
+  <br>
+  I watched this tutorial for this sound stream deck. <br>
+  https://www.youtube.com/watch?v=QRiwYUQkNUQ<br><br>
