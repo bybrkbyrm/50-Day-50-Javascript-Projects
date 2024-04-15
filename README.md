@@ -64,3 +64,12 @@
   <br>
   I watched this tutorial for this opening page but slide version. <br>
   https://www.youtube.com/watch?v=RQSArpgUPaw<br><br>
+  -------------------------------------------------------------------<br>
+  <br>
+ ➕<h1>DAY 8</h1> (15 April 2024) : Text Wave animation ✅ <br>
+  🔗 Live: https://burakbayram.me/projects/day-eight-wave-animation/index.html <br> 
+   <br>
+  <img src="https://www.burakbayram.me/projects/images/img8.png"></img>
+  <br>
+  I watched this tutorial for this text wave animation. <br>
+  https://www.youtube.com/watch?v=QRiwYUQkNUQ<br><br>
