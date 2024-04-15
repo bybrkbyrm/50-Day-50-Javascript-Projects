@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+:root{
+    --left-bg-color:rgba(245, 59, 223, 0.59); 
+    --right-bg-color:rgba(245, 59, 223, 0.59); 
+
+    --hover-width: 60%;
+    --other-width: 40%;
+    --speed: 700ms;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body{
+    font-family: 'Inter', sans-serif;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+
+}
+
+.container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-color: #333;
+}
+
+.split{
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    overflow: hidden;
+    text-align: center;
+
+}
+
+.split.left{
+    left: 0;
+    background-color:cornflowerblue;
+}
+
+.slipt.left::before{
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: var(--left-bg-color);
+}
+
+.split.right{
+    right: 0;
+    background-color:deeppink;
+}
+
+.slipt.right::before{
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: var(--right-bg-color);
+}
+
+h1{
+    font-size: 3rem;
+    color: aliceblue;
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    transform: translateX(-50%);
+    text-shadow: 3px 3px 3px rgba(0,0,0,1);
+}
+
+.btn.left{
+    position: absolute;
+    left: 50%;
+    top: 40%;
+
+    transform: translateX(-50%);
+    text-decoration: none;
+    color: white;
+    background-color:darkslategray;
+    padding: 20px;
+    font-size: 2rem;
+    font-weight: 700;
+    box-shadow: 3px 3px 10px rgba(0,0,0,1);
+
+}
+
+.btn.right{
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    transform: translateX(-50%);
+    text-decoration: none;
+    color: white;
+    background-color:brown;
+    padding: 20px;
+    font-size: 2rem;
+    font-weight: 700;
+    box-shadow: 3px 3px 10px rgba(0,0,0,1);
+
+}
+
+.btn.left:hover{
+    background-color: black ;
+}
+
+.btn.right:hover{
+    background-color: black ;
+}
+
+.hover-left .left {
+    width: var(--hover-width);
+}
+
+.hover-left .right{
+    width: var(--other-width);
+}
+
+.hover-right .left{
+    width: var(--other-width);
+}
+
+.hover-right .right{
+    width: var(--hover-width);
+}
+
+.split.right,
+.split.left,
+.split.right::before,
+.slipt.left::before{
+    transition: all var(--speed) ease-in-out;
+}
+
+@media(max-width: 800px){
+
+    h1{
+        font-size: 2rem;
+    }
+
+    .btn.left{
+    font-size: 1rem;
+    font-weight: 500;
+    padding: 10 10 10 10px;
+    width: 10rem;
+    }
+
+    .btn.right{
+        font-size: 1rem;
+        font-weight: 500;
+        padding: 10 10 10 10px;
+        width: 10rem;
+        }
+}
