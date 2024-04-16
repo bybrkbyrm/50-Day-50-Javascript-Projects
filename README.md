@@ -82,3 +82,12 @@
   <br>
   I watched this tutorial for this sound stream deck. <br>
   https://www.youtube.com/watch?v=QRiwYUQkNUQ<br><br>
+    -------------------------------------------------------------------<br>
+  <br>
+ ➕<h1>DAY 10</h1> (16 April 2024) : Dad Jokes Generator ✅ <br>
+  🔗 Live: https://burakbayram.me/projects/day-ten-dad-joke-generator/index.html<br> 
+   <br>
+  <img src="https://www.burakbayram.me/projects/images/img10.png"></img>
+  <br>
+  I watched this tutorial for this dad jokes generator. <br>
+  https://www.youtube.com/watch?v=0lXxVbIg1-8<br><br>
