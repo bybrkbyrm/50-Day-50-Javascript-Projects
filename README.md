@@ -85,7 +85,7 @@
     -------------------------------------------------------------------<br>
   <br>
  ➕<h1>DAY 10</h1> (16 April 2024) : Dad Jokes Generator ✅ <br>
-  🔗 Live: https://burakbayram.me/projects/day-ten-dad-joke-generator/index.htmlimg9<br> 
+  🔗 Live: https://burakbayram.me/projects/day-ten-dad-joke-generator/index.html<br> 
    <br>
   <img src="https://www.burakbayram.me/projects/images/img10.png"></img>
   <br>
