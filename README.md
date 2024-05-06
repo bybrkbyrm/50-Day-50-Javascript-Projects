@@ -76,7 +76,7 @@
   -------------------------------------------------------------------<br>
   <br>
  ➕<h1>DAY 9</h1> (15 April 2024) : Sound Stream Deck ✅ <br>
-  🔗 Live: https://burakbayram.me/projects/day-nine-sound-stream-deck/index.htmlimg9<br> 
+  🔗 Live: https://burakbayram.me/projects/day-nine-sound-stream-deck/index.html<br> 
    <br>
   <img src="https://www.burakbayram.me/projects/images/img9.png"></img>
   <br>
